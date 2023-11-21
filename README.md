@@ -1,2 +1,2 @@
 # LocalizationError
-Data and code for Pagniello and Jaffe (2022).
+Data and code for Pagniello and Jaffe (in prep).
